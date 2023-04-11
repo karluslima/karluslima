@@ -10,11 +10,11 @@
 
 <div style="title_color: red">
   <a href="https://github.com/karluslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karluslima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karluslima&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karluslima&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karluslima&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
-
-  <p align="center">
+<br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,react,firebase,nodejs" />
   </a>

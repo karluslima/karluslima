@@ -1,6 +1,6 @@
 # Oi! Eu sou o Carlos Lima!
 
-- 🏢 Desenvolvedor Full Stack Jr @ Maeztra
+- 🏢 Desenvolvedor Full Stack @ <a href="https://maeztra.com/"> <img src="https://maeztra.com/wp-content/uploads/2022/01/Maeztra_Branco_Baixa_sem_slogan.png" width="70" heigth="16"/> </a>
 
 - 💻 Atualmente atuando com: HTML, CSS, React JS, SaaS, Firebase e Node.
 

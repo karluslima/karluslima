@@ -2,9 +2,9 @@
 
 - 🏢 Desenvolvedor Front-end
 
-- 💻 Atualmente atuando com: HTML, CSS, React JS, SaaS, Firebase e Node.
+- 💻 Atualmente atuando com: HTML, CSS, React JS, SaaS, Typescript, NextJs.
 
-- 📚 Estudando sempre: HTML, CSS, JS, Typescript, Node, Git, Next, React ou Firebase.
+- 📚 Estudando sempre: HTML, CSS, JS, Typescript, Node, Git, Next, React.
 
 - 📧 Fala comigo: karluslima@gmail.com
 
